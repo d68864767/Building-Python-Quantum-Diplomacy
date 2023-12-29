@@ -1,0 +1,19 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+
+# Logs
+logs
+*.log
+
+# Config file
+config.py
+
+# Other
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
